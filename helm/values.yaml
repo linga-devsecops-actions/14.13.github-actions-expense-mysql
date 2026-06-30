@@ -1,0 +1,4 @@
+deployment:
+  imageURL: lingadevops/mysql
+  imageVersion: v1.1
+  replicas: 2
