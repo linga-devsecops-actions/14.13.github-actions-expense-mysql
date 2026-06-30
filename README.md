@@ -1,9 +1,9 @@
 # Creating or download mysql db for expense project.
 
 ```
-git clone https://github.com/linga-devsecops-actions/14.17.github-actions-expense-mysql.git
+git clone https://github.com/linga-devsecops-actions/14.13.github-actions-expense-mysql.git
 
-cd 14.17.github-actions-expense-mysql/helm
+cd 14.13.github-actions-expense-mysql/helm
 
 sudo vim values.yaml
 
